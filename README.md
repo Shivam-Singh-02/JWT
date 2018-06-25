@@ -5,6 +5,6 @@
 <h3> Code is written in ES6 and has comments where required.</h3>
 <h6>
 <p>
-  <li>First make a get request with a client such as Postman, it will return a token. Copy that token.
+  <li>First make a post request with a client such as Postman on the /login route, it will return a token. Copy that token.
   <li>Make a post request to the route using the token generated in the previous step, passing it in the Header section with key as       'Authorization'
     
