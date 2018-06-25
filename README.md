@@ -3,7 +3,7 @@
 <h3> Set Up </h3>
 <h6>
 <p>
-  <li>Clone the repo and use npm install to install the libraries used</h3>
+  <li>Clone the repo and use npm install to install the libraries used
   <li>Move to api/routes and run the index file with node </h3>
   <li>Code is written in ES6 and has comments where required.</h3>
 </h6>
