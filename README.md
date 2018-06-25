@@ -4,8 +4,8 @@
 <h6>
 <p>
   <li>Clone the repo and use npm install to install the libraries used
-  <li>Move to api/routes and run the index file with node </h3>
-  <li>Code is written in ES6 and has comments where required.</h3>
+  <li>Move to api/routes and run the index file with node 
+  <li>Code is written in ES6 and has comments where required.
 </h6>
 <h3> Running the project </h3>
 <h6>
