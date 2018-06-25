@@ -1,0 +1,26 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "learning JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam-Singh-02/JWT.git"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "author": "Shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivam-Singh-02/JWT/issues"
+  },
+  "homepage": "https://github.com/Shivam-Singh-02/JWT#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
