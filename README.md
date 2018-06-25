@@ -1,5 +1,5 @@
 # JWT
-<h3>Use case showcasing how to secure routes</h3>
+<h3>A POC to show how to secure routes with the use of JWT</h3>
 <h3> Set Up </h3>
 <h6>
 <p>
