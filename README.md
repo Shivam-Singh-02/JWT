@@ -1,4 +1,4 @@
-# JWT
+# JWT NODE.JS
 <h3>A POC to show how to secure routes with the use of JWT</h3>
 <h3> Set Up </h3>
 <h6>
